@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.chrismello0211.dominodagalera",
-    "sha256_cert_fingerprints": ["18:04:5E:81:2F:96:10:65:BC:9F:13:13:D5:AE:CC:C4:F0:01:40:48:E4:65:DD:C4:18:6D:79:E9:CD:40:20:DF"]
+    "sha256_cert_fingerprints": [
+      "18:04:5E:81:2F:96:10:65:BC:9F:13:13:D5:AE:CC:C4:F0:01:40:48:E4:65:DD:C4:18:6D:79:E9:CD:40:20:DF",
+      "73:15:CB:4B:B1:49:85:2E:A2:03:DE:64:24:E8:A1:4C:A8:9A:33:86:F8:A1:27:CF:14:AF:17:74:7A:58:73:37"
+    ]
   }
 }]
